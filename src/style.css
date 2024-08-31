@@ -1,0 +1,8 @@
+/* Add this in your style.css if not already present */
+html, body, #root, .w-full, .h-full {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
